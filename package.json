@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
-    "vue": "^2.6.10"
+    "normalize.css": "^8.0.1",
+    "reset.css": "^2.0.2",
+    "skeleton-css": "^2.0.4",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
