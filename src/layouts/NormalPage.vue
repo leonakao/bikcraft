@@ -1,9 +1,9 @@
 <template>
-  <div id="normal-page">
-    <NavBar />
-    <slot></slot>
-    <Footer />
-  </div>
+    <div id="normal-page">
+        <NavBar />
+            <slot></slot>
+        <Footer />
+    </div>
 </template>
 
 <script>

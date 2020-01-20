@@ -6,6 +6,7 @@ import routes from './routes'
 import 'normalize.css'
 import 'reset.css'
 import 'skeleton-css/css/skeleton.css'
+import './assets/css/style.css'
 
 Vue.use(VueRouter)
 

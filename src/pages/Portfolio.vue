@@ -1,21 +1,21 @@
 <template>
-    <section class="sobre">
+    <section class="portfolio">
         <div class="container">
-            <h1>Sobre</h1>
+            <h1>Portfólio</h1>
         </div>
     </section>
 </template>
 
 <script>
 export default {
-  name: 'sobre',
+  name: 'portfolio',
   components: {
   }
 }
 </script>
 
 <style>
-#sobre {
+#portfolio {
   text-align: center;
 }
 </style>
